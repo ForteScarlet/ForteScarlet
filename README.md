@@ -47,26 +47,27 @@
  
  <hr />
  
+ <!--  
 <div align="center">
- 
+  
 <picture>
 <source 
-  srcset="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&data=followers,repositories,stars,commits&theme=darkmode"
+  srcset="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&theme=darkmode&data=followers,repositories,stars,commits"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&data=followers,repositories,stars,commits"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&data=followers,repositories,stars,commits&theme=darkmode" width="60%" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&theme=darkmode&data=followers,repositories,stars,commits" width="60%" />
 </picture>
 
 </div>
-  
+  --> 
 
 
 <div align="center">
-    
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=tokyonight&hide_border=true&locale=cn"
@@ -78,7 +79,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ ForteScarlet's stars ✨" height="135em"  />
 </picture>
- 
+
 
   <picture>
 <source 
