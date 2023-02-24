@@ -9,7 +9,7 @@
   srcset="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0&size=80"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="right" src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0&size=80" alt="Moon" />
+<img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0&size=80" alt="Moon" />
 </picture>
 
 
@@ -58,7 +58,7 @@
   srcset="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&data=followers,repositories,stars,commits"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&data=followers,repositories,stars,commits" width="60%" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&data=followers,repositories,stars,commits&theme=darkmode" width="60%" />
 </picture>
 
 </div>
