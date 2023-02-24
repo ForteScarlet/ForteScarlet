@@ -1,9 +1,5 @@
-
-
 ### Hi! 👋
-
-
-  
+ 
 
 <div>
 
@@ -103,9 +99,8 @@
 
 <div align="center">
 
-<picture>
   <img align="center" src="/github-metrics.svg" alt="Metrics" />
-</picture>  
+
 </div>
 
 <hr />
