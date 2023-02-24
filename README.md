@@ -5,7 +5,19 @@
 
 
 <!-- <img align="right" src="https://s1.ax1x.com/2020/09/10/wYQC6K.md.png" alet="公众号" height="180" /> -->
+ 
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn&hide=html,css,JavaScript"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&show_icons=true&layout=compact&hide_border=true&locale=cn&hide=html,css,JavaScript"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn&hide=html,css,JavaScript" height="160em" />
+</picture>
   
   你好！欢迎你来到我的GitHub，我正在创作各式各样的代码与爱，一起来看看吧~
   
@@ -31,10 +43,32 @@
 
 <div align="center">
     
+ <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=tokyonight&hide_border=true&locale=cn"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&hide_border=true&locale=cn"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
 <img src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ ForteScarlet's stars ✨" height="135em"  />
-  
-  
+</picture>
+ 
+
+  <picture>
+<source 
+  srcset="https://github-readme-streak-stats.herokuapp.com?user=ForteScarlet&theme=tokyonight&hide_border=true&border_radius=3.5&locale=zh"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com?user=ForteScarlet&hide_border=true&border_radius=3.5&locale=zh"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ForteScarlet&theme=tokyonight&hide_border=true&border_radius=3.5&locale=zh" alt="✨ ForteScarlet's streak ✨" height="135em"  />
+</picture>
+  
+
  
 </div>
 
@@ -100,7 +134,14 @@
 <div align="center">
 
   <img align="center" src="/github-metrics.svg" alt="Metrics" />
-
+  
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ForteScarlet/ForteScarlet/output/snk/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ForteScarlet/ForteScarlet/output/snk/github-snake.svg">
+  <img align="center" src="https://raw.githubusercontent.com/ForteScarlet/ForteScarlet/output/snk/github-snake.svg" alt="Snk" />
+</picture>
+  
+ 
 </div>
 
 <hr />
