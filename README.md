@@ -99,9 +99,9 @@
 
 # About ME
  
-- 在 Google, Oracle, Microsoft, Amazon, Facebook, 阿里巴巴, 美团, 京东等各大国内外知名大型IT企业中没有过职位。
-- 是 Spring, Open JDK, Kotlin, Vue, Linux 等各知名开源项目的不知名核心精神贡献者。
-- 对 Java, Kotlin, JavaScript, Go, Rust, PHP, E-lang 等多个热门编程语言有着一窍不通的理解。
+- 在 Google, Oracle, Microsoft, Amazon, Facebook, 阿里巴巴, 美团, 京东等各大国内外知名大型IT企业中没有过任何职位。
+- 是 Spring, Open JDK, Kotlin, Vue, Linux 等各知名开源项目的不知名核心"精神贡献"者。
+- 对 Java, Kotlin, JavaScript, Go, Rust, PHP, E-lang 等多个热门编程语言一窍不通。
 - 国家电网 (State Grid Corporation of China) 资深被外包官。
 - 二级Java语言后端开发工程师资格证书不持有者。
 - 知名畅销书《深入理解JVM虚拟机》、《数据结构与算法分析》、《编程之美》的买了不看者。
