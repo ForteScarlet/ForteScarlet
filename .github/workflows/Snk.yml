@@ -1,4 +1,4 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+# Visit https://github.com/Platane/snk for full reference
 name: Snk
 on:
   # Schedule updates (each hour)
