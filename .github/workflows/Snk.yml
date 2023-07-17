@@ -15,7 +15,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk@v2
+      #- uses: Platane/snk@v2
+      - uses: aelassas/snk/svg-only@main
         with:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
@@ -33,7 +34,8 @@ jobs:
           outputs: |
             snk/github-snake.svg
             snk/github-snake-dark.svg?palette=github-dark
-            snk/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            
+          #snk/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             
          
       # push the content of <build_dir> to a branch
