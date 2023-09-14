@@ -1,5 +1,7 @@
 # Welcome! 👋
 
+<div align="center">
+<!-- 一个月球。see https://moon-svg.minung.dev/ -->
 <picture>
 <source 
   srcset="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0&size=80"
@@ -12,12 +14,15 @@
 <img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0&size=80" alt="Moon" />
 </picture>
 
+<!-- Hits. see https://hits.seeyoufarm.com/ -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FForteScarlet%2FForteScarlet&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
+
+<br />
+
+<!-- 文字、链接与常用语言 -->
 <div>
-
-<!-- <img align="right" src="https://s1.ax1x.com/2020/09/10/wYQC6K.md.png" alet="公众号" height="180" /> -->
- 
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn&hide=html,css,JavaScript"
@@ -29,27 +34,25 @@
 />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn&hide=html,css,JavaScript" height="160em" />
 </picture>
-  
 
-  你好！欢迎你来到我的GitHub，我正在创作各式各样的代码与爱，一起来看看吧~
- 
- 
-  > 今天也有一个好心情吗？
-  
-  我的gitee: https://gitee.com/ForteScarlet 
+<p>你好！欢迎你来到我的GitHub，我正在创作各式各样的代码与爱，一起来看看吧~</p>
 
-  我的bilibili: https://space.bilibili.com/2714954
+> 今天也有一个好心情吗？
 
-  <!-- https://github.com/arturssmirnovs/github-profile-views-counter -->
-  ![profile-views-counter](https://gpvc.arturio.dev/ForteScarlet)
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FForteScarlet%2FForteScarlet&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p>我的gitee: https://gitee.com/ForteScarlet </p>
+<p>我的bilibili: https://space.bilibili.com/2714954</p>
+
 </div>
- 
- <hr />
 
- <!--  
+<hr />
+
+<!-- 公众号 -->
+<div align="center"><img src="https://s1.ax1x.com/2020/09/10/wYQC6K.md.png" alet="公众号" height="150" /></div>
+
+
 <div align="center">
-  
+
+<!-- GitHub WidgetBox see https://github.com/Jurredr/github-widgetbox -->
 <picture>
 <source 
   srcset="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&theme=darkmode&data=followers,repositories,stars,commits"
@@ -59,13 +62,14 @@
   srcset="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&data=followers,repositories,stars,commits"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&theme=darkmode&data=followers,repositories,stars,commits" width="60%" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=ForteScarlet&theme=darkmode&data=followers,repositories,stars,commits" width="70%" />
 </picture>
 
 </div>
-  --> 
 
 
+
+<!-- 一些统计信息卡片。see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
 
 <picture>
@@ -80,8 +84,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ ForteScarlet's stars ✨" height="135em"  />
 </picture>
 
-
-  <picture>
+<picture>
 <source 
   srcset="https://github-readme-streak-stats.herokuapp.com?user=ForteScarlet&theme=tokyonight&hide_border=true&border_radius=3.5&locale=zh"
   media="(prefers-color-scheme: dark)"
@@ -95,21 +98,21 @@
    
 </div>
 
-  <hr />
+<hr />
 
 # About ME
  
-- 在 Google, Oracle, Microsoft, Amazon, Facebook, 阿里巴巴, 美团, 京东等各大国内外知名大型IT企业中没有过任何职位。
-- 是 Spring, Open JDK, Kotlin, Vue, Linux 等各知名开源项目的不知名核心"精神贡献"者。
-- 对 Java, Kotlin, JavaScript, Go, Rust, PHP, E-lang 等多个热门编程语言一窍不通。
-- 国家电网 (State Grid Corporation of China) 资深被外包官。
-- 二级Java语言后端开发工程师资格证书不持有者。
-- 知名畅销书《深入理解JVM虚拟机》、《数据结构与算法分析》、《编程之美》的买了不看者。
-- 高级自封摆烂学专家与空话语言艺术家。
-- Jetbrains深度合作伙伴、IDE白嫖体验官。
+- 👉 在 Google, Oracle, Microsoft, Amazon, Facebook, 阿里巴巴, 美团, 京东等各大国内外知名大型IT企业中没有过任何职位。
+- 👉 是 Spring, Open JDK, Kotlin, Vue, Linux 等各知名开源项目的不知名核心"精神贡献"者。
+- 👉 对 Java, Kotlin, JavaScript, Go, Rust, PHP, E-lang 等多个热门编程语言一窍不通。
+- 👉 国家电网 (State Grid Corporation of China) 资深被外包官。
+- 👉 二级Java语言后端开发工程师资格证书不持有者。
+- 👉 知名畅销书《深入理解JVM虚拟机》、《数据结构与算法分析》、《编程之美》的买了不看者。
+- 👉 高级自封摆烂学专家与空话语言艺术家。
+- 👉 Jetbrains深度合作伙伴、IDE白嫖体验官。
 
 <hr />
-
+<!-- 一大堆LOGO. 以及与之相关的超链接 -->
 <!--https://github.com/marwin1991/profile-technology-icons-->
 <div align="center">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP" />
@@ -166,24 +169,18 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" />
 </div>
 
+<br />
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=ForteScarlet&show_icons=true&theme=Gradient" align="right" alt="✨ ForteScarlet's stars ✨" />
--->
-
-
+<!-- 奖牌！ -->
 <p align="center"><a href="https://github.com/ForteScarlet">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=ForteScarlet&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
+    <img src="https://github-profile-trophy.vercel.app/?username=ForteScarlet&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" />
   </a></p>
 
-<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ForteScarlet&theme=react-dark" /> -->
-
 <div align="center">
+<!-- 超级大长图 -->
+<img align="center" src="/github-metrics.svg" alt="Metrics" />
 
-  <img align="center" src="/github-metrics.svg" alt="Metrics" />
-  
+ <!-- 贪吃蛇！ --> 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ForteScarlet/ForteScarlet/output/snk/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ForteScarlet/ForteScarlet/output/snk/github-snake.svg">
