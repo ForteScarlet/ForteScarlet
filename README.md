@@ -22,7 +22,21 @@
 <br />
 
 <!-- 文字、链接与常用语言 -->
-<div>
+<div align="center">
+
+
+<p>你好！欢迎你来到我的GitHub，我正在创作各式各样的代码与爱，一起来看看吧~</p>
+
+今天也有一个好心情吗？
+
+<p>我的gitee: https://gitee.com/ForteScarlet </p>
+<p>我的bilibili: https://space.bilibili.com/2714954</p>
+
+</div>
+
+<hr />
+<!-- Languages -->
+<div align="center">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn&hide=html,css,JavaScript"
@@ -32,20 +46,9 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&show_icons=true&layout=compact&hide_border=true&locale=cn&hide=html,css,JavaScript"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn&hide=html,css,JavaScript" height="160em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn&hide=html,css,JavaScript" height="160em" />
 </picture>
-
-<p>你好！欢迎你来到我的GitHub，我正在创作各式各样的代码与爱，一起来看看吧~</p>
-
-> 今天也有一个好心情吗？
-
-<p>我的gitee: https://gitee.com/ForteScarlet </p>
-<p>我的bilibili: https://space.bilibili.com/2714954</p>
-
 </div>
-
-<hr />
-
 <!-- 公众号 -->
 <div align="center"><img src="https://s1.ax1x.com/2020/09/10/wYQC6K.md.png" alet="公众号" height="150" /></div>
 
