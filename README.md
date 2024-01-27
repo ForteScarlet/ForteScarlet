@@ -1,5 +1,8 @@
 # Welcome! 👋
 
+<!-- 
+头部内容，包括一个月亮，和一个 Hits。
+-->
 <div align="center">
 <!-- 一个月球。see https://moon-svg.minung.dev/ -->
 <picture>
@@ -21,20 +24,30 @@
 
 <br />
 
-<!-- 文字、链接与常用语言 -->
+<!-- 一句问候，和常用语言的使用 -->
 <div align="center">
 
+<p>你好！欢迎你来到我的GitHub，今天也有一个好心情吗？</p>
 
-<p>你好！欢迎你来到我的GitHub，我正在创作各式各样的代码与爱，一起来看看吧~</p>
-
-今天也有一个好心情吗？
-
-<p>我的gitee: https://gitee.com/ForteScarlet </p>
-<p>我的bilibili: https://space.bilibili.com/2714954</p>
+<!-- 一些平台账号 -->
+<p>
+  <a href="https://gitee.com/ForteScarlet">
+    <img src="https://img.shields.io/badge/ForteSarlet-C71D23?style=for-the-badge&logo=gitee" />
+  </a>
+  
+   <a href="https://github.com/ForteScarlet">
+    <img src="https://img.shields.io/badge/ForteSarlet-181717?style=for-the-badge&logo=github" />
+  </a>
+     
+   <a href="https://space.bilibili.com/2714954">
+    <img src="https://img.shields.io/badge/ForteSarlet-FFFFFF?style=for-the-badge&logo=Bilibili" />
+  </a>
+  </p>
 
 </div>
 
 <hr />
+
 <!-- Languages -->
 <div align="center">
 <picture>
@@ -49,9 +62,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn&hide=html,css,JavaScript" height="160em" />
 </picture>
 </div>
+
 <!-- 公众号 -->
 <div align="center"><img src="https://s1.ax1x.com/2020/09/10/wYQC6K.md.png" alet="公众号" height="150" /></div>
-
 
 <div align="center">
 
@@ -69,7 +82,6 @@
 </picture>
 
 </div>
-
 
 
 <!-- 一些统计信息卡片。see https://github.com/anuraghazra/github-readme-stats -->
@@ -180,6 +192,7 @@
   </a></p>
 
 <div align="center">
+
 <!-- 超级大长图 -->
 <img align="center" src="/github-metrics.svg" alt="Metrics" />
 
@@ -196,22 +209,8 @@
 <hr />
 
 <div align="center">
-  <p>
-  <a href="https://gitee.com/ForteScarlet">
-    <img src="https://img.shields.io/badge/ForteSarlet-C71D23?style=for-the-badge&logo=gitee" />
-  </a>
-  
-   <a href="https://github.com/ForteScarlet">
-    <img src="https://img.shields.io/badge/ForteSarlet-181717?style=for-the-badge&logo=github" />
-  </a>
-     
-   <a href="https://space.bilibili.com/2714954">
-    <img src="https://img.shields.io/badge/ForteSarlet-FFFFFF?style=for-the-badge&logo=Bilibili" />
-  </a>
-  </p>
-  <p><small><a href="mailto:ForteScarlet@163.com">Call Me♥</a></small></p>
-  
-  <p></p>
+    <p><small><a href="mailto:ForteScarlet@163.com">Call Me♥</a></small></p>
+    <p></p>
   
 </div>
  
