@@ -42,10 +42,10 @@
    <a href="https://space.bilibili.com/2714954">
     <img src="https://img.shields.io/badge/ForteSarlet-FFFFFF?style=for-the-badge&logo=Bilibili" />
   </a>
+
+  <a href="https://juejin.cn/user/730521284903390">掘金</a>
 </p>
-<p>
-	<a href="https://juejin.cn/user/730521284903390">掘金</a>
-</p>
+
 </div>
 
 <hr />
