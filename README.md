@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/ForteSarlet-FFFFFF?style=for-the-badge&logo=Bilibili" />
   </a>
 
-  <a href="https://juejin.cn/user/730521284903390">掘金</a>
+  <a href="https://blog.forte.love">我的博客</a>
 </p>
 
 </div>
