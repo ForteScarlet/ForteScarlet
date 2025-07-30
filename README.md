@@ -44,6 +44,7 @@
   </a>
 
   <a href="https://forte.love">我的首页</a>
+  |
   <a href="https://blog.forte.love">我的博客</a>
 </p>
 
