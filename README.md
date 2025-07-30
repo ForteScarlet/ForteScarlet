@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/ForteSarlet-FFFFFF?style=for-the-badge&logo=Bilibili" />
   </a>
 
+  <a href="https://forte.love">我的首页</a>
   <a href="https://blog.forte.love">我的博客</a>
 </p>
 
